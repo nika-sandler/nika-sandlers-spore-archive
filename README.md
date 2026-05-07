@@ -152,6 +152,42 @@ Other Archives
   
   Curated collection: https://zenodo.org/communities/nika-sandler/
 
+  Mycophilia
+  
+  https://doi.org/10.5281/zenodo.15644466
+
+  A History of Teeth
+  
+  https://doi.org/10.5281/zenodo.15605080
+
+  The World of Hedonia
+  
+  https://doi.org/10.5281/zenodo.15670189
+
+  The Ancient Depths
+  
+  https://doi.org/10.5281/zenodo.15616677
+ 
+  Plant and Human Pain
+  
+  https://doi.org/10.5281/zenodo.15652790
+  
+  My Nonhuman Friends
+  
+  https://doi.org/10.5281/zenodo.15700871
+
+  The Black Sun
+  
+  https://doi.org/10.5281/zenodo.15678107
+
+  Archives
+  
+  https://doi.org/10.5281/zenodo.16821366
+
+  Other
+  
+  https://doi.org/10.5281/zenodo.15616963
+
 – OSF (Open Science Framework)
 
   https://osf.io/wgy8b/
@@ -196,9 +232,51 @@ Other Archives
 
   https://github.com/nika-sandler
 
+  List of repositories
+
+  https://github.com/nika-sandler/nika-sandlers-spore-archive
+  
+  https://github.com/nika-sandler/my-nonhuman-friends
+  
+  https://github.com/nika-sandler/my-nonhuman-friends-2
+  
+  https://github.com/nika-sandler/photobook-my-nonhuman-friends
+  
+  https://github.com/nika-sandler/a-history-of-teeth
+  
+  https://github.com/nika-sandler/mycophilia
+  
+  https://github.com/nika-sandler/plant-and-human-pain
+  
+  https://github.com/nika-sandler/sensored
+  
+  https://github.com/nika-sandler/the-ancient-depths
+  
+  https://github.com/nika-sandler/the-black-sun
+  
+  https://github.com/nika-sandler/the-world-of-hedonia
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
+
+  List of collections
+  
+  https://conifer.rhizome.org/nika-sandler/a-history-of-teeth
+  
+  https://conifer.rhizome.org/nika-sandler/another
+  
+  https://conifer.rhizome.org/nika-sandler/my-nonhuman-friends
+  
+  https://conifer.rhizome.org/nika-sandler/mycophilia
+  
+  https://conifer.rhizome.org/nika-sandler/plant-and-human-pain
+  
+  https://conifer.rhizome.org/nika-sandler/the-ancient-depths
+  
+  https://conifer.rhizome.org/nika-sandler/the-black-sun
+  
+  https://conifer.rhizome.org/nika-sandler/the-world-of-hedonia
 
 – Memory of Mankind
 
