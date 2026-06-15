@@ -146,6 +146,8 @@ Other Archives
   
   https://archive.org/details/@nika_sandler837
 
+  https://archive.org/details/nika-sandler-spore-archive
+
 – Zenodo
 
   Full records: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sandler%2C%20Nika%22
@@ -188,6 +190,10 @@ Other Archives
   
   https://doi.org/10.5281/zenodo.15616963
 
+  Nika Sandler - Spore Archive
+  
+  https://doi.org/10.17605/OSF.IO/UB3XV
+
 – OSF (Open Science Framework)
 
   https://osf.io/wgy8b/
@@ -227,6 +233,10 @@ Other Archives
   Mycophilia
   
   https://doi.org/10.17605/OSF.IO/2U4QG
+
+  Nika Sandler - Spore Archive
+  
+  https://doi.org/10.17605/OSF.IO/UB3XV
 
 – GitHub
 
