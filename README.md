@@ -139,6 +139,10 @@ If you are reading this, you are part of its continuation.
 
 ---
 
+Archival Portal 
+
+https://nika-sandler.github.io
+
 Other Archives
 
 – Internet Archive
@@ -288,13 +292,13 @@ Other Archives
   
   https://conifer.rhizome.org/nika-sandler/the-world-of-hedonia
 
-– Memory of Mankind
-
-  https://www.memory-of-mankind.com/
-
 – Figshare
 
   https://doi.org/10.6084/m9.figshare.31991178
+
+ – These works are also stored in the Memory of Mankind archive
+
+ – The zine The Black Sun preserved in the archive of The Photographers' Gallery
 
 ---
 
